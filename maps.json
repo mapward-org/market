@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "code-health",
+    "description": "объект «Здоровье кода»: пометки TODO, FIXME и HACK в папке кода и дочерний объект только с FIXME",
+    "repo": "mapward-org/code-health",
+    "branch": "main"
+  }
+]
