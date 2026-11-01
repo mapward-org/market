@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "todo-scan",
+    "description": "пометки TODO, FIXME и HACK в коде проекта: сколько всего и в каких файлах, готово для вида list",
+    "repo": "mapward-org/todo-scan",
+    "branch": "main"
+  }
+]
